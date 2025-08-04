@@ -18,3 +18,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## Output Files
 - `AI_ML_Task1_Data_Cleaning.ipynb`
+- `titanic_cleaned.csv`
