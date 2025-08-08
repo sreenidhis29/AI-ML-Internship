@@ -19,3 +19,21 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 ## Output Files
 - `AI_ML_Task1_Data_Cleaning.ipynb`
 - `titanic_cleaned.csv`
+
+# Task 2: Exploratory Data Analysis (EDA)
+
+## Objective
+Explore and understand the Titanic dataset using statistical summaries and visualizations.
+
+## Tools Used
+Python, Pandas, Seaborn, Matplotlib, Plotly
+
+## Steps Performed
+- Generated summary statistics for all features
+- Plotted histograms and boxplots for numerical columns
+- Created a correlation heatmap and pairplot to observe relationships
+- Built an interactive scatter plot (Age vs Fare) using Plotly
+- Identified key patterns such as survival based on age, fare, and class
+
+## Output Files
+- `AI_ML_Task2_EDA.ipynb`: Notebook with all analysis and visualizations
