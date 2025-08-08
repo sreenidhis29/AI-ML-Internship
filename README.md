@@ -37,3 +37,40 @@ Python, Pandas, Seaborn, Matplotlib, Plotly
 
 ## Output Files
 - `AI_ML_Task2_EDA.ipynb`: Notebook with all analysis and visualizations
+
+# Task 3: Linear Regression
+
+## Objective
+Build and evaluate a simple and multiple linear regression model using a house price dataset.
+
+## Tools Used
+Python, Pandas, Scikit-learn, Matplotlib
+
+## Steps Performed
+- Loaded the House Price dataset
+- Split data into training and testing sets
+- Trained a Linear Regression model
+- Evaluated using MAE, MSE, and R² score
+- Printed model coefficients
+- Plotted actual vs predicted values
+
+## Output Files
+- `AI_ML_Task3_Linear_Regression.ipynb`: Notebook with all code, metrics, and plots
+
+# Task 4: Classification with Logistic Regression
+
+## Objective
+Build a binary classifier using logistic regression on the Breast Cancer Wisconsin dataset.
+
+## Tools Used
+Python, Pandas, Scikit-learn, Matplotlib
+
+## Steps Performed
+- Loaded and explored the dataset
+- Standardized features and split data into train/test sets
+- Trained a Logistic Regression model
+- Evaluated using confusion matrix, precision, recall, F1-score, and ROC-AUC
+- Explained sigmoid function and visualized threshold tuning
+
+## Output Files
+- `AI_ML_Task4_Logistic_Regression.ipynb`: Contains all preprocessing, model training, evaluation, and visualizations
